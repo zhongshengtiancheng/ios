@@ -458,7 +458,7 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 http://108.165.240.85:80/jspd.php?id=49
 #EXTINF:-1 tvg-name="台视新闻台" tvg-logo="https://epg.pw/media/images/channel/2023/07/24/large/20230724092903588198_34.png" group-title="湾湾",台视新闻HD
 http://108.165.240.85:80/jspd.php?id=44
-#EXTINF:-1 tvg-name="东森新闻台" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/09/20/20150920205542211030_19.jpg" group-title="湾湾",东森新闻台
+#EXTINF:-1 tvg-name="东森新闻台" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/09/20/20150920205542211030_19.jpg" group-title="湾湾",东森亚洲新闻台
 http://nz189l149.bb27109.ctm.net:8890/bysid/134
 #EXTINF:-1 tvg-name="中天新闻台" tvg-logo="https://epg.pw/media/images/channel/2023/07/11/large/20230711224446764842_40.jpg" group-title="湾湾",中天亚洲新闻台
 http://nz189l149.bb27109.ctm.net:8890/bysid/132
@@ -476,7 +476,7 @@ http://108.165.240.85:80/jspd.php?id=61
 http://livepull-tcyzb.sztv.com.cn/live/dushi01.m3u8
 #EXTINF:-1 tvg-id="普宁台" tvg-name="普宁台" tvg-logo="https://live.fanmingming.com/tv/普宁台.png" group-title="广东台",普宁台
 http://ci.emdoor.tech:8080/touchtv.php?pk=2450
-#EXTINF:-1 tvg-id="汕头综合" tvg-name="汕头综合" tvg-logo=""http://tv.haoqu99.com/d/file/2017/0109/small-75748548.jpg" group-title="广东台",汕头综合
+#EXTINF:-1 tvg-id="汕头一套综合频道" tvg-name="汕头综合" tvg-logo="http://tv.haoqu99.com/d/file/2017/0109/small-75748548.jpg" group-title="广东台",汕头综合
 http://183.238.248.83:9000/udp/239.21.0.98:3732
 #EXTINF:-1 group-title="广东台" tvg-id="梅州一套综合频道" tvg-logo="http://tv.haoqu99.com/d/file/2017/0109/small-74835kejia.jpg",梅州一套综合频道
 http://pili-live-hls.xianchangliving.gdmztv.com/meizhou-xianchangliving/mztv1.m3u8
