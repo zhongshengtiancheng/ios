@@ -496,9 +496,9 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226582/index.m3u8
 http://[2409:8087:7001:20:1000::96]:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&amp;Contentid=6000000003000004748&amp;livemode=1&amp;stbId=3
 #EXTINF:-1,tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://epg.112114.xyz/logo/北京纪实.png" group-title="纯享4K",纪实科教8K
 http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8
-#EXTINF:-1 tvg-id="4K修复全网" tvg-name="4K修复全网" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/09/18/20150918230530279656_17.png" group-title="港澳台",4K修复全网
+#EXTINF:-1 tvg-id="4K修复全网" tvg-name="4K修复全网" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/09/18/20150918230530279656_17.png" group-title="纯享4K",4K修复全网
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-#EXTINF:-1 tvg-id="动物星球" tvg-name="动物星球" tvg-logo="https://epg.pw/media/images/channel/2020/01/18/large/20200118152252597815_72.png" group-title="港澳台",4K动物星球缓冲
+#EXTINF:-1 tvg-id="动物星球" tvg-name="动物星球" tvg-logo="https://epg.pw/media/images/channel/2020/01/18/large/20200118152252597815_72.png" group-title="纯享4K",4K动物星球缓冲
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1,tvg-id="IPTV4k" tvg-name="IPTV4k" tvg-logo="https://epg.112114.xyz/logo/纯享4K.png" group-title="纯享4K",CCTV16
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000008000023254/index.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3
