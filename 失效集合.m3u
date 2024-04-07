@@ -1,3 +1,17 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="深圳都市频道" tvg-logo="https://live.fanmingming.com/tv/深圳都市.png",深圳都市频道
+http://198.16.100.90:8278/ctinews/playlist.m3u8?tid=MA4A6611409066114090&ct=19226&tsum=f0333c4e69a7c5880f766ec9f29ca203
+#EXTINF:-1 tvg-name="深圳都市频道" tvg-logo="https://live.fanmingming.com/tv/深圳都市.png",深圳都市频道
+http://198.16.100.90:8278/ctinews/playlist.m3u8?tid=MC3C3915550439155504&ct=19193&tsum=a8168b7967dda9bfebdd5b1403dc19b0
+#EXTINF:-1 tvg-name="深圳都市频道" tvg-logo="https://live.fanmingming.com/tv/深圳都市.png",深圳都市频道
+http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8541/.m3u8
+#EXTINF:-1 tvg-name="深圳都市频道" tvg-logo="https://live.fanmingming.com/tv/深圳都市.png",深圳都市频道
+http://live.cooltv.top/tv/tvb.php?id=0&hq
+#EXTINF:-1 tvg-name="深圳都市频道" tvg-logo="https://live.fanmingming.com/tv/深圳都市.png",深圳都市频道
+http://66.165.240.154:8080/live/TVBwxxwt/hls.m3u8
+#EXTINF:-1 tvg-name="深圳都市频道" tvg-logo="https://live.fanmingming.com/tv/深圳都市.png",深圳都市频道
+http://66.165.240.154:8080/live/TVBtyzxt1/hls.m3u8
+
 #EXTINF:-1 tvg-name="中天新闻台" tvg-logo="https://epg.pw/media/images/channel/2023/07/11/large/20230711224446764842_40.jpg" group-title="港澳台",中天新闻台
 http://ali.hlspull.yximgs.com/live/twlivepzztvvzzzyzuuzzfvbscvzdztwzfszzszzzcvuyzemzeztxw.flv
 #EXTINF:-1 tvg-name="tvbs新闻台" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720162515629145_45.png" group-title="港澳台",tvbs新闻台
