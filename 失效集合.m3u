@@ -1,16 +1,16 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="深圳都市频道" tvg-logo="https://live.fanmingming.com/tv/深圳都市.png",深圳都市频道
-http://www.namewee.xyz/gudou.php?id=364&id=1350_4500
+http://198.16.100.90:8278/ctinews/playlist.m3u8?tid=MA4A6611409066114090&ct=19226&tsum=f0333c4e69a7c5880f766ec9f29ca203
 #EXTINF:-1 tvg-name="深圳都市频道" tvg-logo="https://live.fanmingming.com/tv/深圳都市.png",深圳都市频道
-http://www.namewee.xyz/gudou.php?id=1350
+http://198.16.100.90:8278/ctinews/playlist.m3u8?tid=MC3C3915550439155504&ct=19193&tsum=a8168b7967dda9bfebdd5b1403dc19b0
 #EXTINF:-1 tvg-name="深圳都市频道" tvg-logo="https://live.fanmingming.com/tv/深圳都市.png",深圳都市频道
-http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
+http://223.71.206.22:30080/TW/ztxw/hls.m3u8
 #EXTINF:-1 tvg-name="深圳都市频道" tvg-logo="https://live.fanmingming.com/tv/深圳都市.png",深圳都市频道
-http://198.16.100.90:8278/Wlt/playlist.m3u8?tid=MC9C7523788875237888&ct=19225&tsum=fc74aa160d3ca61369c2e5f3ae79ee8e
+http://50.7.238.114:8278/ctinews/playlist.m3u8?tid=MB0B9546410395464103&ct=19249&tsum=30c62d7eec5ce9a49a64c3fa3ff8a8b7
 #EXTINF:-1 tvg-name="深圳都市频道" tvg-logo="https://live.fanmingming.com/tv/深圳都市.png",深圳都市频道
-http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
+https://epg.pw/stream/a62732193d00a568f75f933ea1ae23e6675480055b9cf392089c3c369f1fd0e7.m3u8
 #EXTINF:-1 tvg-name="深圳都市频道" tvg-logo="https://live.fanmingming.com/tv/深圳都市.png",深圳都市频道
-https://epg.pw/stream/fe02817d95c6d58f41e1ea8208b5a8c9462bf525b153819b0c3918406127925a.m3u8
+http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8541/.m3u8
 
 #EXTINF:-1 tvg-name="中天新闻台" tvg-logo="https://epg.pw/media/images/channel/2023/07/11/large/20230711224446764842_40.jpg" group-title="港澳台",中天新闻台
 http://ali.hlspull.yximgs.com/live/twlivepzztvvzzzyzuuzzfvbscvzdztwzfszzszzzcvuyzemzeztxw.flv
