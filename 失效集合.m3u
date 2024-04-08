@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="深圳都市频道" tvg-logo="https://live.fanmingming.com/tv/深圳都市.png",中天测试
+#EXTINF:-1 tvg-name="深圳都市频道" tvg-logo="https://live.fanmingming.com/tv/深圳都市.png",中天测试1
 http://50.7.238.114:8278/ctinews/playlist.m3u8?tid=MC3C3915550439155504&ct=19193&tsum=a8168b7967dda9bfebdd5b1403dc19b0
 #EXTINF:-1 tvg-name="深圳都市频道" tvg-logo="https://live.fanmingming.com/tv/深圳都市.png",深圳都市频道
 http://198.16.100.90:8278/ctinews/playlist.m3u8?tid=MC3C3915550439155504&ct=19193&tsum=a8168b7967dda9bfebdd5b1403dc19b0
